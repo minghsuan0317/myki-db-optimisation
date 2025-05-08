@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# VS Code / Azure Data Studio
+.vscode/
+*.code-workspace
+
+# SQL Server temp/log files
+*.bak
+*.trn
+*.ldf
+*.mdf
+
+*.tmp
+*.log
+*.swp
+*~
